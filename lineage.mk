@@ -22,3 +22,5 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 PRODUCT_DEVICE := tblte
 PRODUCT_NAME := lineage_tblte
+
+BUILD_FINGERPRINT=samsung/tbltebtu/tblte:6.0.1/MMB29M/N915FYXXS1DQH2:user/release-keys
