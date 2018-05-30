@@ -1,4 +1,4 @@
-# tbltetmo/tbltecan
+# tbltetmo
 
 vendor/lib/libmdmdetect.so:blobs/tmo/vendor/lib/libmdmdetect.so
 vendor/lib/libconfigdb.so:blobs/tmo/vendor/lib/libconfigdb.so

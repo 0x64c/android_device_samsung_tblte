@@ -1,0 +1,27 @@
+# tbltecan
+
+vendor/lib/libmdmdetect.so:blobs/can/vendor/lib/libmdmdetect.so
+vendor/lib/libconfigdb.so:blobs/can/vendor/lib/libconfigdb.so
+vendor/lib/libdiag.so:blobs/can/vendor/lib/libdiag.so
+vendor/lib/libdsutils.so:blobs/can/vendor/lib/libdsutils.so
+vendor/lib/libidl.so:blobs/can/vendor/lib/libidl.so
+vendor/lib/libnetmgr.so:blobs/can/vendor/lib/libnetmgr.so
+vendor/lib/libqcci_legacy.so:blobs/can/vendor/lib/libqcci_legacy.so
+vendor/lib/libqmi.so:blobs/can/vendor/lib/libqmi.so
+vendor/lib/libqmi_cci.so:blobs/can/vendor/lib/libqmi_cci.so
+vendor/lib/libqmi_client_qmux.so:blobs/can/vendor/lib/libqmi_client_qmux.so
+vendor/lib/libqmi_common_so.so:blobs/can/vendor/lib/libqmi_common_so.so
+vendor/lib/libqmi_csi.so:blobs/can/vendor/lib/libqmi_csi.so
+vendor/lib/libqmi_encdec.so:blobs/can/vendor/lib/libqmi_encdec.so
+vendor/lib/libqmiservices.so:blobs/can/vendor/lib/libqmiservices.so
+lib/libprotobuf-cpp-full.so:blobs/can/vendor/lib/libprotobuf-cpp-full.so
+bin/efsks:blobs/can/vendor/bin/efsks
+bin/ks:blobs/can/vendor/bin/ks
+bin/mdm_helper:blobs/can/vendor/bin/mdm_helper
+bin/mdm_helper_proxy:blobs/can/vendor/bin/mdm_helper_proxy
+bin/netmgrd:blobs/can/vendor/bin/netmgrd
+bin/qcks:blobs/can/vendor/bin/qcks
+bin/qmuxd:blobs/can/vendor/bin/qmuxd
+lib/libsec-ril.so:blobs/can/vendor/lib/libsec-ril.so
+vendor/lib/libril-qcril-hook-oem.so:blobs/can/vendor/lib/libril-qcril-hook-oem.so
+vendor/lib/libcneapiclient.so:blobs/can/vendor/lib/libcneapiclient.so
