@@ -121,8 +121,8 @@ void init_target_properties()
         cdma_properties("Verizon", "311480", "0");
     } else if (bootloader.find("N915W8") == 0) {
         /* tbltecan */
-        property_override_dual("ro.build.fingerprint", "ro.vendor.fingerprint", "samsung/tbltecan/tblte:6.0.1/MMB29M/N915W8VLS1DQD1:user/release-keys");
-        property_override("ro.build.description", "tbltecan-user 6.0.1 MMB29M N915W8VLS1DQD1 release-keys");
+        property_override_dual("ro.build.fingerprint", "ro.vendor.fingerprint", "samsung/tbltecan/tblte:6.0.1/MMB29M/N915W8VLS1CPK1:user/release-keys");
+        property_override("ro.build.description", "tbltecan-user 6.0.1 MMB29M N915W8VLS1CPK1 release-keys");
         property_override_dual("ro.product.model", "ro.vendor.model", "SM-N915W8");
         property_override_dual("ro.product.device", "ro.vendor.device", "tbltecan");
         property_override_dual("ro.product.name", "ro.vendor.name", "tbltecan");

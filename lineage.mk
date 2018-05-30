@@ -26,7 +26,7 @@ PRODUCT_NAME := lineage_tblte
 ifeq ($(filter tbltexx,$(TARGET_DEVICE)),)
     BUILD_FINGERPRINT=samsung/tbltebtu/tblte:6.0.1/MMB29M/N915FYXXS1DQH2:user/release-keys
 else ifeq ($(filter tbltecan,$(TARGET_DEVICE)),)
-    BUILD_FINGERPRINT=samsung/tbltecan/tblte:6.0.1/MMB29M/N915W8VLS1DQD1:user/release-keys
+    BUILD_FINGERPRINT=samsung/tbltecan/tblte:6.0.1/MMB29M/N915W8VLS1CPK1:user/release-keys
 else ifeq ($(filter tbltedt,$(TARGET_DEVICE)),)
     BUILD_FINGERPRINT=samsung/tbltedt/tblte:6.0.1/MMB29M/N915GDTS1DQE1:user/release-keys
 else ifeq ($(filter tbltespr,$(TARGET_DEVICE)),)
